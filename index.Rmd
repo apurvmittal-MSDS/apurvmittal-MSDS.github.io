@@ -1,12 +1,15 @@
 ---
-title: "First Website"
-author: "Apurv"
+title: "My First Website"
 date: "11/1/2020"
 output: html_document
 ---
 
-# This is the homepage of Apurv's Website
-![Apurv](Apurv.jpeg)
+## This is the homepage of Apurv's Website
+
+```{r, echo=FALSE, out.width="25%", fig.cap=""}
+knitr::include_graphics("Apurv.jpeg")
+```
+
 I live in Plano, Texas.
 
-“The other tabs represent work / analyses that I have completed.  Please check them out!”
+“The Beer Case Study tab includes the analysis done for Beer Case study.  Please check them out!”
