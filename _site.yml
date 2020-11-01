@@ -3,6 +3,6 @@ navbar:
   title: "Apurv"
   left:
     - text: "About Me"
-    href: index.html
+      href: index.html
     - text: "Beer Case Study"
-    href: Apurv_DS_Project_1.html
+      href: Apurv_DS_Project_1.html
