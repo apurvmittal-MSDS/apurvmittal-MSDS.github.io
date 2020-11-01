@@ -1,0 +1,8 @@
+name: "Apurv's Website"
+navbar:
+  title: "Apurv"
+  left:
+    - text: "About Me"
+    href: index.html
+    - text: "Beer Case Study"
+    href: Apurv_DS_Project_1.html
